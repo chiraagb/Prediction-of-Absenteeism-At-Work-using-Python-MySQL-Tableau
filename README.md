@@ -25,3 +25,5 @@
 
 * ***In this project, I will build a machine learning model to predict the absenteeism. The goal is to predict whether or not an employee presenting certain characteristics can be expected to be missing on a certain workday.***
 * **Having such information in advance can help Managers in decision making by reorganizing the work process in such a way that will allow an organization to avoid lack of productivity and increase the quality of work.**
+
+The data for the analysis is taken from [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/dataset/445/absenteeism+at+work). Also the .csv file is further simplified which can be found in the DataSet Folder.
