@@ -5,6 +5,6 @@
 * The figure below shows the responsibilities of Data Scientists/ML Engineers and Business Intelligence/Data Analysts.
 
 <p align="center">
-  <img src="![tab-sql-jupy](https://user-images.githubusercontent.com/113826990/232306866-b596e19d-7f14-4ed8-a8b0-3b5c0e5c1a19.png)" />
+  <img src="(https://user-images.githubusercontent.com/113826990/232306866-b596e19d-7f14-4ed8-a8b0-3b5c0e5c1a19.png)" />
 </p>
 
