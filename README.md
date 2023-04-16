@@ -11,7 +11,7 @@
 ## Table of Contents
 
 * [Problem Definition](https://github.com/chiraagb/Prediction-of-Absenteeism-At-Work-using-Python-MySQL-Tableau/blob/main/README.md#problem-definition)
-* Technologies and Tools
+* [Technologies and Tools](https://github.com/chiraagb/Prediction-of-Absenteeism-At-Work-using-Python-MySQL-Tableau/blob/main/README.md#technologies-and-tools)
 * Important Libraries
 * Code Example
 * Result
@@ -28,3 +28,5 @@
 
 
 The data for the analysis is taken from [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/dataset/445/absenteeism+at+work). Also the .csv file is further simplified which can be found [here](https://github.com/chiraagb/Prediction-of-Absenteeism-At-Work-using-Python-MySQL-Tableau/files/11242187/Absenteeism_data.csv).
+
+### Technologies and Tools
