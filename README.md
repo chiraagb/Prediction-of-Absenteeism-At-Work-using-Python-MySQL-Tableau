@@ -8,3 +8,10 @@
   <img src="https://user-images.githubusercontent.com/113826990/232306866-b596e19d-7f14-4ed8-a8b0-3b5c0e5c1a19.png" />
 </p>
 
+## Table of Contents
+
+* Problem Definition
+* Technologies and Tools
+* Important Libraries
+* Code Example
+* Result
