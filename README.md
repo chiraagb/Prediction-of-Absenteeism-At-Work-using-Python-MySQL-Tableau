@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Problem Definition](### Problem Definition)
+* [Problem Definition](https://github.com/chiraagb/Prediction-of-Absenteeism-At-Work-using-Python-MySQL-Tableau/blob/main/README.md#problem-definition)
 * Technologies and Tools
 * Important Libraries
 * Code Example
