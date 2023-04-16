@@ -30,3 +30,15 @@
 The data for the analysis is taken from [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/dataset/445/absenteeism+at+work). Also the .csv file is further simplified which can be found [here](https://github.com/chiraagb/Prediction-of-Absenteeism-At-Work-using-Python-MySQL-Tableau/files/11242187/Absenteeism_data.csv).
 
 ### Technologies and Tools
+
+* Python (Jupyter Notebook)
+* MySQL WorkBench
+* Tableau
+
+### Important Libraries
+
+* Library used to connect Python and MySQL
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113826990/232308879-ef342bb2-abdb-4e62-91d3-fdbc6a939dfd.png"/>
+</p>
