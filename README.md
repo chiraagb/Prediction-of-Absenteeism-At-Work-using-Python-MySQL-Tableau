@@ -23,5 +23,5 @@
 3. In addition, the employees who do show up to work are often burdened with extra duties and responsibilities to fill in for absent employees, which can lead to feelings of frustration and a decline in morale.
 4. It is important for a company to understand the causes of absenteeism and make policies inorder to reduce these causes.
 
-* **In this project, I will build a machine learning model to predict the absenteeism. The goal is to predict whether or not an employee presenting certain characteristics can be expected to be missing on a certain workday.
-* **Having such information in advance can help Managers in decision making by reorganizing the work process in such a way that will allow an organization to avoid lack of productivity and increase the quality of work.
+* ***In this project, I will build a machine learning model to predict the absenteeism. The goal is to predict whether or not an employee presenting certain characteristics can be expected to be missing on a certain workday.***
+* **Having such information in advance can help Managers in decision making by reorganizing the work process in such a way that will allow an organization to avoid lack of productivity and increase the quality of work.**
